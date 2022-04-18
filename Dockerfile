@@ -14,4 +14,4 @@ RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # run the command
-CMD ["python", "./app_shingles.py"]
+CMD ["python", "./app_semantic_similarity.py"]
